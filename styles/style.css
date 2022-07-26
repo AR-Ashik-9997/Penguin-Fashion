@@ -1,17 +1,25 @@
 /* google-font */
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins&display=swap");
 
-body{
-    font-family: 'Poppins', sans-serif;
+body {
+  font-family: "Poppins", sans-serif;
 }
-.banner-font{
-    font-size: 4rem;    
+.banner-font {
+  font-size: 4rem;
 }
-.bg-text-color{
-    color: #FA804C;
+.text-color {
+  color: #fa804c;
+}
+.card-img {
+  background-color: #f1f1f1;
+}
+.logo {
+  width: 291.11px;
+  height: 39.27px;
 }
 
-@media screen and (max-width:767px) {
-    .banner-font{
-        font-size: 2rem;
+@media screen and (max-width: 767px) {
+  .banner-font {
+    font-size: 2rem;
+  }
 }
