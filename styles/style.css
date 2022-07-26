@@ -1,0 +1,17 @@
+/* google-font */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.banner-font{
+    font-size: 4rem;    
+}
+.bg-text-color{
+    color: #FA804C;
+}
+
+@media screen and (max-width:767px) {
+    .banner-font{
+        font-size: 2rem;
+}
