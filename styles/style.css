@@ -22,4 +22,8 @@ body {
   .banner-font {
     font-size: 2rem;
   }
+  .logo {
+    width: 192.75px;
+    height: 26px;
+  }
 }
